@@ -1,0 +1,69 @@
+{
+  "date": "2026-07-27",
+  "total_categories": 7,
+  "existing_products": 60,
+  "recommendations": [
+    {
+      "category": "AI工具",
+      "trend_level": "🔥🔥🔥🔥🔥",
+      "tool_id": "ai_writing_assist",
+      "name": "AI写作助手",
+      "desc": "文章润色、扩写、改写",
+      "price": 35,
+      "reason": "AI工具趋势火爆(🔥🔥🔥🔥🔥)，AI写作助手市场需求大"
+    },
+    {
+      "category": "短视频/直播工具",
+      "trend_level": "🔥🔥🔥🔥🔥",
+      "tool_id": "danmaku_collect",
+      "name": "弹幕采集工具",
+      "desc": "采集直播间弹幕数据",
+      "price": 35,
+      "reason": "短视频/直播工具趋势火爆(🔥🔥🔥🔥🔥)，弹幕采集工具市场需求大"
+    }
+  ],
+  "all_categories": {
+    "AI工具": {
+      "trend": "🔥🔥🔥🔥🔥",
+      "total_tools": 7,
+      "developed": 2,
+      "available": 5
+    },
+    "短视频/直播工具": {
+      "trend": "🔥🔥🔥🔥🔥",
+      "total_tools": 6,
+      "developed": 2,
+      "available": 4
+    },
+    "电商/购物工具": {
+      "trend": "🔥🔥🔥🔥",
+      "total_tools": 6,
+      "developed": 0,
+      "available": 6
+    },
+    "办公效率工具": {
+      "trend": "🔥🔥🔥🔥",
+      "total_tools": 6,
+      "developed": 0,
+      "available": 6
+    },
+    "自媒体/内容创作": {
+      "trend": "🔥🔥🔥🔥",
+      "total_tools": 6,
+      "developed": 0,
+      "available": 6
+    },
+    "学习/教育工具": {
+      "trend": "🔥🔥🔥",
+      "total_tools": 5,
+      "developed": 0,
+      "available": 5
+    },
+    "生活/实用工具": {
+      "trend": "🔥🔥🔥",
+      "total_tools": 6,
+      "developed": 0,
+      "available": 6
+    }
+  }
+}
